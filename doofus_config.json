@@ -1,0 +1,7 @@
+{
+  "playerSpeed": 5.0,
+  "spawnTriggerSeconds": 1.5,
+  "pulpitLifetimeMin": 2.0,
+  "pulpitLifetimeMax": 4.0,
+  "pulpitSize": 2.0
+}
